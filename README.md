@@ -1,2 +1,0 @@
-# profile
-GOMPS org readme
